@@ -1,0 +1,4 @@
+Easy theme for vim, just basic colors.
+
+Copy to $VIMDIR/colors/easy.vim and choose with "colorscheme easy". Enjoy, pg@2005 
+
